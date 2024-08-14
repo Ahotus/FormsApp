@@ -1,11 +1,3 @@
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\appsettings.json
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.staticwebassets.runtime.json
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.exe
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.deps.json
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.runtimeconfig.json
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.dll
-C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.pdb
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfoInputs.cache
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\FormsApp.AssemblyInfo.cs
@@ -14,6 +6,14 @@ C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\FormsApp.Mvc
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cache
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\FormsApp.RazorAssemblyInfo.cs
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\FormsApp.sourcelink.json
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\appsettings.json
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.staticwebassets.runtime.json
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.exe
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.deps.json
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.runtimeconfig.json
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.dll
+C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\bin\Debug\net8.0\FormsApp.pdb
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ahotu\OneDrive\Masaüstü\aspnet\FormsApp\obj\Debug\net8.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props

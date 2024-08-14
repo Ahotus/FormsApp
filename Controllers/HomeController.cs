@@ -6,16 +6,18 @@ namespace FormsApp.Controllers;
 
 public class HomeController : Controller
 {
+   
+public IActionResult Index(string searchString)
+{
+    var Products = Repository.Products;
 
-    public HomeController()
+    if (!string.IsNullOrEmpty(searchString))
     {
-        
+        ViewBag.SearchString = searchString;
+        Products = Products.Where(p => p.Name.ToLower().Contains(searchString.ToLower())).ToList();
     }
-
-    public IActionResult Index()
-    {
-        return View(Repository.Products);
-    }
+    return View(Products);
+}
 
     public IActionResult Privacy()
     {
