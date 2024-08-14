@@ -7,7 +7,7 @@ namespace FormsApp.Models
 
         static Repository()
         {
-            
+            _categories.Add(new Category{CategoryId=1, Name="Electronics"});
         }
         public static List<Product> Products
         {
