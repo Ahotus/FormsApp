@@ -7,7 +7,15 @@ namespace FormsApp.Models
 
         static Repository()
         {
-            _categories.Add(new Category{CategoryId=1, Name="Electronics"});
+            _categories.Add(new Category{CategoryId=1, Name="Telefon"});
+            _categories.Add(new Category{CategoryId=2, Name="Bilgisayar"});
+            _products.Add(new Product{ProductId=1, Name="Iphone 14", Price=40000, IsActive = true, Image="1.jpg", CategoryId=1});
+            _products.Add(new Product{ProductId=2, Name="Iphone 15", Price=45000, IsActive = true, Image="2.jpg", CategoryId=1});
+            _products.Add(new Product{ProductId=1, Name="Samsung 16", Price=50000, IsActive = true, Image="3.jpg", CategoryId=1});
+            _products.Add(new Product{ProductId=1, Name="Samsung 17", Price=60000, IsActive = true, Image="4.jpg", CategoryId=1});
+
+            _products.Add(new Product{ProductId=1, Name="Macbook Air", Price=70000, IsActive = true, Image="5.jpg", CategoryId=2});
+            _products.Add(new Product{ProductId=1, Name="Macbook Pro", Price=80000, IsActive = true, Image="6.jpg", CategoryId=2});
         }
         public static List<Product> Products
         {
