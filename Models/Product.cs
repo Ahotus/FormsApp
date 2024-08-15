@@ -16,7 +16,7 @@ namespace FormsApp.Models
         public decimal Price { get; set; }
 
         [Display(Name = "Resim")]
-        [Required]
+        
         public string? Image { get; set; }
 
         [Display(Name = "Aktif Mi?")]
@@ -24,5 +24,6 @@ namespace FormsApp.Models
 
         [Display(Name = "Kategori Id")]
         public int CategoryId { get; set; }
+        public IFormFile ImageFile { get; set; }
     }
 }

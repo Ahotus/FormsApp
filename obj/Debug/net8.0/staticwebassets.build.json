@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tIx3k5gVIas3wr+Z9SRu3xJjvpiY2MHngevHxtt8uHg=",
+  "Hash": "vD/7o48N/lNV8Du9ksSe6yuTC5Ad442pxj42oVe6qY4=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -207,6 +207,25 @@
       "OriginalItemSpec": "wwwroot\\img\\5.jpg"
     },
     {
+      "Identity": "C:\\Users\\ahotu\\OneDrive\\Masaüstü\\aspnet\\FormsApp\\wwwroot\\img\\55e04426-f22e-4ca2-a699-71d174f1779c.jpeg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahotu\\OneDrive\\Masaüstü\\aspnet\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/55e04426-f22e-4ca2-a699-71d174f1779c.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\55e04426-f22e-4ca2-a699-71d174f1779c.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\ahotu\\OneDrive\\Masaüstü\\aspnet\\FormsApp\\wwwroot\\img\\6.jpg",
       "SourceId": "FormsApp",
       "SourceType": "Discovered",
@@ -281,6 +300,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\ba9f7c7e-06bf-4294-ac78-6a94944e6459.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ahotu\\OneDrive\\Masaüstü\\aspnet\\FormsApp\\wwwroot\\img\\f414a848-d95a-42b0-9bcb-748278409c88.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahotu\\OneDrive\\Masaüstü\\aspnet\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/f414a848-d95a-42b0-9bcb-748278409c88.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f414a848-d95a-42b0-9bcb-748278409c88.jpg"
     },
     {
       "Identity": "C:\\Users\\ahotu\\OneDrive\\Masaüstü\\aspnet\\FormsApp\\wwwroot\\js\\site.js",
