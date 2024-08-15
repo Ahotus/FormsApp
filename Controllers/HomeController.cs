@@ -16,7 +16,7 @@ public IActionResult Index(string searchString, string category)
     if (!string.IsNullOrEmpty(searchString))
     {
         ViewBag.SearchString = searchString;
-        products = products.Where(p => p.Name.ToLower().Contains(searchString.ToLower())).ToList();
+        products = products.Where(p => p.Name!.ToLower().Contains(searchString.ToLower())).ToList();
     }
     if (!string.IsNullOrEmpty(category))
     {
@@ -39,11 +39,31 @@ public IActionResult Index(string searchString, string category)
         SelectedCategory = category
     };
     return View(model);
+
+
+    
 }
 
-    public IActionResult Privacy()
+[HttpGet]
+    public IActionResult Create()
     {
+        ViewBag.Categories = new SelectList(Repository.Categories, "CategoryId", "Name");
+        // Your logic here
         return View();
+    }
+
+
+    [HttpPost]
+    public IActionResult Create(Product model)
+    {
+        if (!ModelState.IsValid)
+        {
+            ViewBag.Categories = new SelectList(Repository.Categories, "CategoryId", "Name");
+            return View(model);
+        }
+        Repository.CreateProduct(model);
+        ViewBag.Categories = new SelectList(Repository.Categories, "CategoryId", "Name");
+        return View(model);
     }
 
     
